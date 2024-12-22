@@ -1,0 +1,16 @@
+
+s	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶â­•ùÿÿÿÿ8‰ÎÑÇÜ1
+
+java:S1488ñ"^Immediately return this expression instead of assigning it to the temporary variable "answer".(şù›şÿÿÿÿ8ÈÈŠğÜ1
+7
+java:S1220""Move this file to a named package.8ŠÎÑÇÜ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ğÜßøÿÿÿÿ8œÎÑÇÜ1
+]	java:S125""<This block of commented-out lines of code should be removed.(ğÜßøÿÿÿÿ8œÎÑÇÜ1
+]	java:S125U"<This block of commented-out lines of code should be removed.(ğÜßøÿÿÿÿ8œÎÑÇÜ1
+F
+java:S1172ğ"(Remove this unused method parameter "s".(„´ú8Ÿ†ğÜ1
+V	java:S106ù"9Replace this use of System.out or System.err by a logger.(ÁàÚ 8ŸÎÑÇÜ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÎÈŠğÜ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ÎÈŠğÜ1
