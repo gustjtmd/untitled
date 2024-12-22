@@ -53,7 +53,8 @@ public class Chap10 {
         Scanner kb = new Scanner(System.in);
         String str = kb.next();
         char c=kb.next().charAt(0);
-        for(int x : T.solution(str, c)){
+        for(int x : T.solution(str, c))
+        {
             System.out.print(x+" ");
         }
     }
